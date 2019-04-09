@@ -1,5 +1,5 @@
 --- 
-name: Saulo Guilherme
+name: mywebsite
 navbar: 
   left: 
     - 
@@ -8,6 +8,6 @@ navbar:
     - 
       href: about.html
       text: About
-  title: "My Website"
+  title: "Saulo Guilherme"
 output_dir: content
 toc: true
