@@ -1,8 +1,13 @@
-name: "mywebsite"
-navbar:
-  title: "My Website"
-  left:
-    - text: "Home"
+--- 
+name: mywebsite
+navbar: 
+  left: 
+    - 
       href: index.html
-    - text: "About"
+      text: Home
+    - 
       href: about.html
+      text: About
+  title: "My Website"
+output_dir: content
+toc: true
